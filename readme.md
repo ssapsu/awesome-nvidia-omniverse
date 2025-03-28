@@ -34,8 +34,8 @@
 
 ## Research Keywords
 
-- [3D Object Generation](Research Keywords/3d_object_generation.md)
-- [3D Reconstruction](Research Keywords/3d_reconstruction.md)
+- [3D Object Generation](Research%20Keywords/3d_object_generation.md)
+- [3D Reconstruction](Research%20Keywords/3d_reconstruction.md)
 
 ---
 
